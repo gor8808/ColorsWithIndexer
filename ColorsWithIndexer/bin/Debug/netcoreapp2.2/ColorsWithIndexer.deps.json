@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "ColorsWithIndexer/1.0.0": {
+        "runtime": {
+          "ColorsWithIndexer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ColorsWithIndexer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
